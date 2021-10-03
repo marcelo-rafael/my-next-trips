@@ -13,9 +13,9 @@ export default function HomeTemplate({ places }: MapProps) {
       <NextSeo
         title="My next trips"
         description="A simple project to show my upcoming trips that I will do one day."
-        canonical="" // url real do site
+        canonical="https://my-next-trips.vercel.app/" // url real do site
         openGraph={{
-          url: '', // url real do site
+          url: 'https://my-next-trips.vercel.app/', // url real do site
           title: 'My next trips',
           description:
             'A simple project to show my upcoming trips that I will do one day.',
