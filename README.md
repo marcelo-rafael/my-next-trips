@@ -1,35 +1,159 @@
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+<h4 align="center">
+  <img alt="My next trips" title="My next trips" src="./public/img/cover.png" width="700px" height="300" />
+</h4>
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
-## What is inside?
+<br />
 
-This project uses lot of stuff as:
+ <div align="center">
+    <!-- LICENSE -->
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+    <!-- LAST COMMIT -->
+    <a href="https://github.com/marcelo-rafael/my-next-trips/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/desafio-southsystem-marcelo?style=for-the-badge&label=last%20commit&labelColor=5A5A5A&color=0077B5">
+    </a>
+    <!-- STARS -->
+    <a href="https://github.com/marcelo-rafael/my-next-trips/stargazers/master">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/marcelo-rafael/my-next-trips?style=for-the-badge&label=stars&labelColor=5A5A5A&color=0077B5&logo=github">
+    </a>
+    <!-- FORKS -->
+    <a href="https://github.com/marcelo-rafael/my-next-trips/forks/master">
+    <img alt="Forks" src="https://img.shields.io/github/forks/marcelo-rafael/my-next-trips?style=for-the-badge&label=forks&labelColor=5A5A5A&color=0077B5&logo=github">
+    </a>
+    <!-- AUTHOR -->
+    <img alt="Author Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/author-Marcelo%20Rafael-informational?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+    <!-- LANGUAGES -->
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marcelo-rafael/my-next-trips?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+    <!-- REPO SIZE -->
+    <img alt="Repo size" src="https://img.shields.io/github/repo-size/marcelo-rafael/my-next-trips?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+    <!-- CONTRIBUTORS -->
+  <img alt="CONTRIBUTORS" src="https://img.shields.io/github/contributors/marcelo-rafael/my-next-trips?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
+</div>
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [NextJS](https://nextjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
-- [Eslint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
-- [Husky](https://github.com/typicode/husky)
+---
 
-## Getting Started
+<h1 align="center">
+My next trips - in construction
+</h1>
 
-First, run the development server:
+<p align="center"><a href="https://my-next-trips.vercel.app/">Deploy on Vercel</a>.</p>
+
+---
+
+## 💻 About
+
+The project lists the places on the map I will visit around the world.
+
+## 📋 Features
+
+- [x] Used map with Leaflet, React-leaflet and Mapbox to stylize..
+- [x] Used GraphCMS as CMS.
+- [x] Used GraphQl and GraphQl-Request to communicate with data.
+- [x] Used Next.js for Front-end with static and dynamic page generation.
+- [x] Used Next-PWA and Next-SEO.
+
+---
+
+## 🎨 Layout
+
+## 💻  Web/mobile
+
+<h4 align="center">
+  <img alt="desafio" title="desafio" src="./public/img/demonstration.gif" width="700px" />
+</h4>
+
+---
+
+## ⚔️ Challenges
+
+- [x] Create documentation
+  - [x] demo gif
+  - [x] Readme-me amazing
+  - [x] Technologies used
+  - [x] Project Setup
+  - [x] Features
+  - [x] Add favicon
+  - [x] responsive layout
+  - [x] PWA
+  - [x] SEO
+
+---
+
+## 🛠️ Tech Stack
+
+The following tools were used in the construction of the project:
+
+- **[React](https://pt-br.reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Styled-Components](https://styled-components.com/)**
+- **[GraphQl](https://graphql.org/)**
+- **[GraphQl-Request](https://github.com/prisma-labs/graphql-request)**
+- **[Leaflet](https://leafletjs.com/)**
+- **[React-Leaflet](https://react-leaflet.js.org/)**
+- **[Next-PWA](https://github.com/shadowwalker/next-pwa)**
+- **[Next-SEO](https://github.com/garmeeh/next-seo)**
+- **[Nextjs.progressbar](https://www.npmjs.com/package/nextjs-progressbar)**
+- **[Eslint](https://eslint.org/)**
+- **[Husky](https://github.com/typicode/husky)**
+- **[Jest](https://jestjs.io/pt-BR/)**
+- **[Lint-Staged](https://github.com/okonet/lint-staged)**
+- **[Prettier](https://prettier.io//)**
+- **[@Testing-Library](https://testing-library.com/docs/react-testing-library/intro/)**
+- **[@Graphql-codegen](https://www.graphql-code-generator.com/)**
+- **[GraphCMS](https://graphcms.com/)**
+
+---
+
+## 🚀 How to run the project
+
+### Prerequisites
+
+Have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+
+---
+
+## 👯 Cloning the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone this repository
+$ git clone https://github.com/marcelo-rafael/my-next-trips
+
+# Access the project folder in the terminal/cmd
+$ cd my-next-trips
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Running the Application
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# install dependencies
+$ yarn or npm install
+
+# Run Application in Development
+$ yarn start or npm run start
+
+# The application will open at port: 3000 - access http://localhost:3000
+```
+
+---
+
+#### 📁 Config .ENV
+
+```bash
+# Add the .env.local file and environment variables as shown
+
+# Token GraphCMS
+GRAPHQL_HOST=
+GRAPHQL_TOKEN=
+
+# Token MapBox
+NEXT_PUBLIC_MAPBOX_API_KEY=
+NEXT_PUBLIC_MAPBOX_USERID=
+NEXT_PUBLIC_MAPBOX_STYLEID=
+
+```
+
+---
 
 ## Commands
 
@@ -39,20 +163,45 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `lint`: runs the linter in all components and pages
 - `test`: runs jest to test all components and pages
 - `test:watch`: runs jest in watch mode
-- `storybook`: runs storybook on `localhost:6006`
-- `build-storybook`: create the build version of storybook
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 💪 How to contribute to the project
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. 🍴 Fork the project.
+2. 👯 Clone this repository to your machine.
+3. 🎋 Create a new branch with your changes: `git checkout -b my-feature`
+4. ✅ Save the changes and create a commit message telling you what you've done: `git commit -m "feature: My new feature"`
+5. 📌 Submit your changes: `git push origin my-feature`
+6. 🔃 Create a new pull request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Once your pull request has been merged, you can delete `your-feature`
 
-## Deploy on Vercel
+> If you have any questions, check out this [GitHub Contribution Guide](https://github.com/firstcontributions/first-contributions)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🤓 Autor
+
+<img src="https://avatars0.githubusercontent.com/u/29902777?s=460&u=61d43667f33a45eb000a2af216e4abeb2d4a6717&v=4" width="100px" alt="Marcelo Rafael Gonçalves"/>
+<div>
+<a href="mailto:marcelo.rafael.goncalves@gmail.com">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+<a href="https://www.linkedin.com/in/marcelo-rafael-gonçalves/">
+      <img alt="Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+   </a>
+<a href="https://github.com/marcelo-rafael">
+  <img alt="Made by Marcelo Rafael Gonçalves" src="https://img.shields.io/badge/-Github-0077B5?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/marcelo-rafael" />
+  </a>
+</div>
+
+---
+
+## 📝 LICENSE
+
+This repository is licensed under the **MIT LICENSE**. For more detailed information, read the [LICENSE](./LICENSE) file contained in this repository.
+
+<h3 align="center">
+Made with ❤️ by <a href="https://www.linkedin.com/in/marcelo-rafael-goncalves/">Marcelo Rafael Gonçalves 💜🚀</a>
+</h3>
