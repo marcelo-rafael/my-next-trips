@@ -10,7 +10,7 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5A5A5A&color=0077B5">
     <!-- LAST COMMIT -->
     <a href="https://github.com/marcelo-rafael/my-next-trips/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/desafio-southsystem-marcelo?style=for-the-badge&label=last%20commit&labelColor=5A5A5A&color=0077B5">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marcelo-rafael/my-next-trips?style=for-the-badge&label=last%20commit&labelColor=5A5A5A&color=0077B5">
     </a>
     <!-- STARS -->
     <a href="https://github.com/marcelo-rafael/my-next-trips/stargazers/master">
